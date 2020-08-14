@@ -17,4 +17,4 @@ Ensuite extrait le fichier et place les fichiers extraits dans le dossier PLUGIN
 
 > ## Un problème ? Un bug ?
 
-N'hésites pas à me le faire parvenir en utilisant les "issues" de Github : Crée un ticket [ici](https://github.com/thom-web/chat-skript/issues).
+N'hésites pas à me le faire parvenir en utilisant les "issues" de Github : Crée un ticket [ici](https://github.com/thom-web/chat-skript/issues/new).
